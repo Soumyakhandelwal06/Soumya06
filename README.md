@@ -1,5 +1,5 @@
 # 👋 About Me:
-Hi there! I'm [Soumya Khandelwal] 👋  
+Hi there! I'm Soumya Khandelwal 👋  
 🚀 **About Me**  
 I'm a 2nd-year B.Tech student passionate about web development, software engineering, and problem-solving. My journey started with learning C and C++, and I've since dived into HTML, CSS, JavaScript, and React. Currently, I'm exploring backend development with PHP and integrating it with React.
 
