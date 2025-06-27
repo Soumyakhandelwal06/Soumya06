@@ -17,4 +17,7 @@ I'm a 2nd-year B.Tech student passionate about web development, software enginee
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide=issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oumyakhandelwal06&show_icons=true&theme=dark&hide=issues)
+## 📊 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumyakhandelwal06&layout=compact&theme=dark&hide=html)
+
